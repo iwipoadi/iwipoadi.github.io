@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwipoadi.github.io/SfA/sitemap_index.txt
+Sitemap: https://iwipoadi.github.io/ZWt/sitemap_index.txt
+Sitemap: https://iwipoadi.github.io/eQh/sitemap_index.txt
+Sitemap: https://iwipoadi.github.io/oDx/sitemap_index.txt
